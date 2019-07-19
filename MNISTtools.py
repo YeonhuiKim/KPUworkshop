@@ -1,1 +1,1 @@
-/home/jovyan/mnist/MNISTtools.py
+/kpuworkshop/mnist/MNISTtools.py
